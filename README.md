@@ -5,3 +5,5 @@ This is the first transcribed audio file. Recordings were made in spring 2022 in
 Transcription and annotation is done in EMARaLDA. The metadata management software is yet to be decided.
 
 All personal data is anonymised or consent for sharing obtained.
+
+LaMeta lets me export a general .imdi file for the whole corpus, and files for persons or sessions.
